@@ -101,12 +101,6 @@ cd panel && npm install && npm run dev
 | Servidor (Ktor, con PostgreSQL embebido en los tests) | `cd server && ./gradlew test` |
 | Panel | `cd panel && npm test` |
 
-## Estado y próximos pasos
-
-- [x] Icono propio de la app (icono adaptativo, `app/src/main/res/mipmap-*`).
-- [ ] Terminar de revisar manualmente las instrucciones de ejercicios en español: la mayoría ya están traducidas, pero quedan ~112 marcadas como dudosas/desactualizadas por revisar y 5 ejercicios sin instrucciones traducibles.
-- [ ] Ilustraciones 3D de ejercicios (hoy el mapa muscular usa ilustraciones 2D propias).
-- [ ] Release firmada de la app (hoy solo hay firma de depuración, pensada para pruebas en los móviles del autor).
 
 ## Autor
 
